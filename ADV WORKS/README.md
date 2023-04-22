@@ -22,5 +22,8 @@ To deploy this project run AdvWorks Report.pbix on Power BI Desktop.
 
 
 
-## Screenshots
+## Output
 
+ ![Advworks report 1](https://user-images.githubusercontent.com/48170282/233770493-4a6d4173-99e0-4198-9859-0eb9ed3f6f85.jpg)
+ ![Advworks report 2](https://user-images.githubusercontent.com/48170282/233770499-4af0e52f-e509-4cb1-86e0-57e511798a13.jpg)
+ ![Advworks report 3](https://user-images.githubusercontent.com/48170282/233770503-71340783-cf05-401a-9ef7-24e5da4ab7ef.jpg)
