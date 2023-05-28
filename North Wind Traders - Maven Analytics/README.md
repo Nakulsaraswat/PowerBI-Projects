@@ -33,3 +33,5 @@ Challenge link:- https://mavenanalytics.io/challenges/maven-northwind-challenge/
 To deploy this project run NWT.pbix on Power BI Desktop.
 
 ## Screenshots
+
+![NWT](https://github.com/Nakulsaraswat/PowerBI-Projects/assets/48170282/13d73a79-f8b7-4d82-a098-6a592685a51a)
